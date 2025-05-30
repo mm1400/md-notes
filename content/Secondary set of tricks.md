@@ -11,4 +11,4 @@ You can also do checkboxes!
 - [ ] Amazing YES!  
   
 As for images....  
-![New Piskel.png](/images/New Piskel.png)
+![New Piskel.png](/notes/images/New-Piskel.png)
