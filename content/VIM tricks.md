@@ -12,4 +12,4 @@ or just do `/searchterm\c` for ignoring case
   
 Also check out [Secondary set of tricks]({{< ref "Secondary set of tricks" >}})  
   
-![New Piskel 1.png](/notes/images/New Piskel 1.png)  
+  
